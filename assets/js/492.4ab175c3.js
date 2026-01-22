@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[492],{1281:function(t,n,s){"use strict";s.r(n);var e=s(20),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("作业：\n9-1 【脑洞题】如何制定HTTP/4.0协议规范\n视频：\n9-2 课程总结 (23:21)")])])}),[],!1,null,null,null);n.default=o.exports}}]);

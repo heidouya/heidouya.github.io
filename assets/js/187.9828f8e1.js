@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[187],{867:function(t,n,s){"use strict";s.r(n);var e=s(20),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("本文为阅读《JavaScript高级程序设计（第4版）》整理的笔记，所谓好记性不如烂笔头嘛。")])])}),[],!1,null,null,null);n.default=o.exports}}]);

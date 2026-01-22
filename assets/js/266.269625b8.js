@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[266],{986:function(t,n,s){"use strict";s.r(n);var e=s(20),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("直接看代码演示 /code/webpack")])])}),[],!1,null,null,null);n.default=o.exports}}]);
